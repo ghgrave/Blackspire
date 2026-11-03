@@ -1,0 +1,51 @@
+item_id,item_name,item_type,status,storage_location,checked_out_to
+1,Evidence Camera,Recording,Available,Mobile Kit,NULL
+2,Encrypted Drive,Storage,Checked Out,NULL,Agent Sofia Patel
+3,Field Tablet,Computing,Available,Mobile Kit,NULL
+4,Signal Scanner,Detection,NULL,Equipment Locker,NULL
+5,Rugged Laptop,Computing,Checked Out,NULL,Agent Malik Brooks
+6,Forensic Workstation,Computing,Available,Analysis Room,NULL
+7,USB Write Blocker,Forensics,Checked Out,NULL,Agent Priya Shah
+8,Forensic Imaging Kit,Forensics,Checked Out,NULL,Agent Elias Grant
+9,Network Analysis Kit,Networking,Checked Out,NULL,Agent Nia Okafor
+10,Portable SSD,Storage,Available,Secure Room,NULL
+11,Body Camera,Recording,Checked Out,NULL,Agent Avery Chen
+12,Audio Recorder,Recording,Available,Mobile Kit,NULL
+13,Tripod,Photography,Available,Equipment Locker,NULL
+14,DSLR Lens,Photography,Available,Camera Cabinet,NULL
+15,Thermal Camera,Detection,Checked Out,NULL,Agent Tessa Morgan
+16,Drone Controller,Communications,Available,Secure Room,NULL
+17,GPS Unit,Navigation,Checked Out,NULL,Agent Caleb Ortiz
+18,Satellite Phone,Communications,Checked Out,NULL,Agent Marcus Bell
+19,Secure Radio,Communications,Checked Out,NULL,Agent Sofia Patel
+20,Headset,Communications,Available,Radio Cabinet,NULL
+21,Portable Router,Networking,Available,Network Cabinet,NULL
+22,Network Switch,Networking,Available,Network Cabinet,NULL
+23,Firewall Appliance,Networking,Checked Out,NULL,Agent Malik Brooks
+24,Wireless Access Point,Networking,In Repair,Repair Bench,NULL
+25,Ethernet Cable Kit,Networking,Available,Network Cabinet,NULL
+26,Fiber Optic Tester,Networking,Available,Tool Cabinet,NULL
+27,Cable Tester,Networking,Available,Tool Cabinet,NULL
+28,Power Bank,Power,Checked Out,NULL,Agent Nia Okafor
+29,UPS Unit,Power,Available,Equipment Locker,NULL
+30,Portable Projector,Presentation,Available,Training Room,NULL
+31,Document Scanner,Recording,Checked Out,NULL,Agent Priya Shah
+32,Label Printer,Office,Available,Supply Room,NULL
+33,Lockable Evidence Case,Evidence Handling,Available,Evidence Room,NULL
+34,Faraday Bag,Evidence Handling,Checked Out,NULL,Agent Elias Grant
+35,Tamper-Evident Seal Kit,Evidence Handling,Available,Evidence Room,NULL
+36,Evidence Tag Kit,Evidence Handling,Checked Out,NULL,Agent Avery Chen
+37,Protective Gloves,Safety,Available,Supply Room,NULL
+38,First Aid Kit,Safety,Available,Equipment Locker,NULL
+39,Inspection Flashlight,Inspection,Checked Out,NULL,Agent Caleb Ortiz
+40,Inspection Mirror,Inspection,Available,Tool Cabinet,NULL
+41,Keycard Reader,Access Control,Available,Secure Room,NULL
+42,Badge Printer,Access Control,Available,Office,NULL
+43,Portable Monitor,Computing,Checked Out,NULL,Agent Tessa Morgan
+44,Keyboard Kit,Computing,Available,Equipment Locker,NULL
+45,Mouse Kit,Computing,Available,Equipment Locker,NULL
+46,Webcam,Recording,Available,Recording Cabinet,NULL
+47,Microphone,Recording,In Repair,Repair Bench,NULL
+48,Backup Drive,Storage,Checked Out,NULL,Agent Marcus Bell
+49,Storage Cabinet Key,Access Control,Available,Office,NULL
+50,General Tool Kit,Tools,Checked Out,NULL,Agent Sofia Patel
