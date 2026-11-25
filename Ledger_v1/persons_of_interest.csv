@@ -1,0 +1,26 @@
+person_id,first_name,last_name,alias,suspected_organization_level,identity_status,identifying_details
+1,Gideon,,,Senior leadership (suspected),Under observation,Appears in several ledger references.
+2,Mara,Venn,Glassbird,Cell leadership (suspected),Identity under review,Alias appears in one unverified entry.
+3,Elias,Rook,,Operations (suspected),Under observation,
+4,Soren,Vale,North,Logistics (suspected),Under observation,
+5,Ilya,Marek,,Communications (suspected),Identity under review,
+6,Tamsin,Quill,,Cell leadership (suspected),Under observation,
+7,Corin,,Latch,Field associate (suspected),Alias reported,Name not confirmed.
+8,Nadia,Reeve,,Finance (suspected),Under observation,
+9,Tomas,Kerr,,Operations (suspected),Under observation,
+10,Vera,Morrow,Vesper,Communications (suspected),Identity under review,Alias spelling varies between entries.
+11,Ansel,Pike,,Logistics (suspected),Under observation,
+12,Daria,Sol,,Field associate (suspected),Under observation,
+13,Lucan,Bex,,Cell leadership (suspected),Under observation,
+14,Rhea,Toll,Sable,Operations (suspected),Alias reported,
+15,Kellan,Voss,,Finance (suspected),Under observation,
+16,Petra,Lorne,,Logistics (suspected),Under observation,
+17,Juno,Gray,,Field associate (suspected),Identity under review,
+18,Orin,Sable,,Communications (suspected),Under observation,
+19,Sasha,Dunn,Wick,Field associate (suspected),Alias reported,
+20,Bram,Kest,,Operations (suspected),Under observation,
+21,Niko,Fen,,Logistics (suspected),Under observation,
+22,Lena,Marlowe,,Finance (suspected),Under observation,
+23,Yara,Quill,,Cell leadership (suspected),Identity under review,Possible name match requires confirmation.
+24,Unknown,,,Unknown,Unidentified,Possible sixth figure; first name is a required placeholder.
+25,Ari,Dale,,Field associate (suspected),Under observation,
